@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "solving-2048"
+  site-url: "https://Jason-XII.github.io/solving-2048"
+  description: "An agent that solves the 2048 game using deep reinforcement learning."
+  repo-branch: main
+  repo-url: "https://github.com/Jason-XII/solving-2048"
